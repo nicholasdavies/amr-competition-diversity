@@ -1,0 +1,5 @@
+# definitions for Make (to facilitate cross-compatibility)
+
+EXTDIR := ./Modules
+EXTRA_IFLAGS :=
+EXTRA_LFLAGS :=
